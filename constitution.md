@@ -45,8 +45,16 @@ The treasurer is in charge of
 * supporting fundraising efforts
 * attending required Student Activities Business Office required meetings when others cannot
 
-The Liaison (President) and Treasurer are governed by an advisory board comprised of all active members.
+The Liaison (President) and Treasurer are governed by an advisory board comprised of all active members. If the advisory board reaches a consensus that either the Liason or Treasurer is no longer carrying out duties in the best interests of NU Hacks, the offending officer can be removed from office.
 
 [TODO explain consensus in 'parliamentary procedure' section]
+
+[TODO How can or can't an individual represent Hacks? What kinds of executive decisions are made by consensus/plurality/majority?]
+
+If an individual can list five active members of Hacks that can affirm said individual is an active member of Hacks, then the afformentioned individual is in fact an active member of Hacks. Web of trust model.
+
+Furthermore, an active member cannot be guilty of being a total fuckwad. List possible infractions here.
+
+If an individual is not an active member, the Advisory Board may choose, by consensus, to disregard the non-active member's votes.
 
 [TODO rest of constitution]
