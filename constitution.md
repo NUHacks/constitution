@@ -35,15 +35,15 @@ The officers of NU Hacks shall be President and Treasurer. The President is only
 ### Section 4: Officer Roles
 
 #### Liaison (President)
-*Presides
-*books rooms for meetings and other Hacks activities
-*supports Hacks members in their activities with the resources of the club
+* Presides
+* books rooms for meetings and other Hacks activities
+* supports Hacks members in their activities with the resources of the club
 
 #### Treasurer
 The treasurer is in charge of
-*finances and financial bookkeeping
-*supporting fundraising efforts
-*attending required Student Activities Business Office required meetings when others cannot
+* finances and financial bookkeeping
+* supporting fundraising efforts
+* attending required Student Activities Business Office required meetings when others cannot
 
 The Liaison (President) and Treasurer are governed by an advisory board comprised of all active members.
 
