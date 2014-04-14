@@ -46,3 +46,7 @@ The treasurer is in charge of
 *attending required Student Activities Business Office required meetings when others cannot
 
 The Liaison (President) and Treasurer are governed by an advisory board comprised of all active members.
+
+[TODO explain consensus in 'parliamentary procedure' section]
+
+[TODO rest of constitution]
