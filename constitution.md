@@ -114,4 +114,3 @@ In the interest of transparency, efficiency, and fun, the primary voting process
 
 
 The Hacks Advisory Board may opt instead to hold a traditional vote with paper ballots. However, this decision must be made at least one meeting prior to the vote and must be well-publicized to current Voting Members.
-[TODO rest of constitution]
