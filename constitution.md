@@ -32,7 +32,7 @@ NU Hacks does not discriminate on the basis of race, national origin, color, gen
 Membership will be open to all full-time undergraduate students.
 
 ### Section 2
-Graduate students, part-time undergraduate students, College of Professional Studies students, and non-Northeastern affiliates may become associate members by paying a membership fee that is set by the Hacks Advisory board, but will not exceed $20 per semester.  Associate members are not eligible to vote or hold any position within this organization by either election or appointment.
+Graduate students, part-time undergraduate students, College of Professional Studies students, and non-Northeastern affiliates may become associate members by paying a membership fee that is set by the Hacks Advisory board, but will not exceed $1 per semester.  Associate members are not eligible to vote or hold any position within this organization by either election or appointment.
 
 ### Section 3
 NU Hacks will maintain a membership of at least twelve (12) members at all times.
