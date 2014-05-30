@@ -2,6 +2,18 @@
 # The Constitution of NU Hacks
 
 ----
+## Article 0: Preface
+This document has a few purposes. It lays out the formal definition of how we operate, both to satisfy the university and to keep us organized during major disagreements. 
+
+Most importantly, though, the Hacks constitution should be a reminder of the core values of our culture. Reading between the lines will reveal some of the the thought process behind these rules for our operation - ideas like:
+
+* Distributed decision making is good; it reduces the likelihood of mistakes.
+* Orgs with strong executive boards rely on benevolent, passionate leaders. Orgs with weak executive boards rely on benevolent, passionate culture.
+* There should be few obstacles to trying new ideas. Hackers and makers like to help one another.
+* Hackers and makers practice *popular vote by action*. When they decide something should be done, they make it happen rather than over-deliberating.
+* Use good judgment. Don't be unreasonable, and fix what you break.
+
+The rules set out in this document are meant to support student makers. If they become destructive of that end, do not hesitate to amend them.
 
 ## Article 1: Name 
 The name of this organization shall be NU Hacks of Northeastern University, hereafter referred to as *NU Hacks* or *Hacks*.
