@@ -54,9 +54,6 @@ The Liaison (President) and Treasurer are governed by an advisory board comprise
 
 Furthermore, an active member cannot be guilty of being a total fuckwad. List possible infractions here.
 
-If an individual is not an active member, the Advisory Board may choose, by consensus, to disregard the non-active member's votes.
-[TODO rest of article 4]
-
 ## Article 5: Advisor
 
 ### Section 1
