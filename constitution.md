@@ -46,16 +46,21 @@ The treasurer is in charge of
 * supporting fundraising efforts
 * attending required Student Activities Business Office required meetings when others cannot
 
-The Liaison (President) and Treasurer are governed by an advisory board comprised of all active members. If the advisory board reaches a consensus that either the Liason or Treasurer is no longer carrying out duties in the best interests of NU Hacks, the offending officer can be removed from office.
+These definitions are to be interpreted somewhat narrowly, as these roles exist only to sustain the normal operation of the club and satisfy the University. As much decision making power as is practical should remain with the Advisory Board, which can delegate duties as needed to accomplish specific goals. 
+
+### Section 5: Impeachment
+The Liaison (President) and Treasurer are governed by an advisory board comprised of all active members. If the advisory board reaches a consensus that either the Liason or Treasurer is no longer carrying out duties in the best interests of NU Hacks, the offending officer can be removed from office. This process is defined in Article 7 Section 4. 
+
+### Section 6: Succession
+In the event that an officer is killed, removed from office, resigns, or otherwise ceases to be an officer of the club, a special election will be held as soon as possible to replace them. In the event that the interests of the club require the office to be filled before the special election can occur, the Advisory Board may optionally appoint a temporary officer to fill the position until the election.
+
+### Section 7: Uniqueness
+Both officer positions must be filled by separate members - the Liaison and Treasurer offices may not be held by the same person simultaneously.
 
 [TODO explain consensus in 'parliamentary procedure' section]
 
-[TODO How can or can't an individual represent Hacks? What kinds of executive decisions are made by consensus/plurality/majority?]
+[TODO How can or can't an individual represent Hacks? What kinds of executive decisions are made by consensus/plurality/majority? This is actually really important. Right now the doc describes an organization that's still very approval-heavy. We need a dash of 'hey, just go do shit and we'll veto if we don't like it.']
 
-Furthermore, an active member cannot be guilty of being a total fuckwad. List possible infractions here.
-
-If an individual is not an active member, the Advisory Board may choose, by consensus, to disregard the non-active member's votes.
-[TODO rest of article 4]
 
 ## Article 5: Advisor
 
@@ -97,11 +102,18 @@ If five current members of Hacks affirm that an individual is an active member o
 
 ## Article 7: Parliamentary Authority and Procedure
 
-### Section 1
-Robert's Rules of Order will be the guide for all organizational procedures not specifically defined in the Constitution or by-laws of Hacks.
+### Section 1: Authority
+The Hacks Advisory Board is composed of all members, and enjoys all powers of the club that are not specifically delegated to an officer. These include, among other things, organizing events, appropriating funds for events, and generally guiding the direction of the club. These powers can be delegated. For example, the Advisory Board may appoint a member to handle the organization of a particular event or events rather than handling the entire process by voting.
 
 ### Section 2
+Robert's Rules of Order will be the guide for all organizational procedures not specifically defined in the Constitution or by-laws of Hacks.
+
+### Section 3
 Quorum will be 50% of total current Voting Members, rounded up to the nearest integer.
+
+### Section 4: Removal of officers
+Officers may be removed by the a 2/3 majority vote of current Voting Members. In the event that the Advisory Board removes an officer, the procedure for replacing that officer will be the same as if they had resigned voluntarily. 
+
 
 ## Article 8: Amendments to the Constitution and By-laws
 
