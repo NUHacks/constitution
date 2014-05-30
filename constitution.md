@@ -15,6 +15,8 @@ Most importantly, though, the Hacks constitution should be a reminder of the cor
 
 The rules set out in this document are meant to support student makers. If they become destructive of that end, do not hesitate to amend them.
 
+Good luck. We're all counting on you.
+
 ## Article 1: Name 
 The name of this organization shall be NU Hacks of Northeastern University, hereafter referred to as *NU Hacks* or *Hacks*.
 
